@@ -1004,6 +1004,7 @@ select {
   text-decoration: none;
 }
 
+/*
 button,
 .btn {
   cursor: pointer;
@@ -1027,6 +1028,7 @@ button::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
+*/
 
 button:focus,
 button:hover,
